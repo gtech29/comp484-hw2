@@ -2,6 +2,8 @@
 # COMP 484 — HW2: Structuring Page Content
 
 **Repo:** https://github.com/gtech29/comp484-hw2
+
+
 **Live site (GitHub Pages):** https://gtech29.github.io/comp484-hw2/
 
 ## Assignment Overview
