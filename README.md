@@ -14,11 +14,11 @@ For this HW, the goal is to plan and implement a **semantic structuring strategy
 
 Work completed:
 
-- Explored `structure.html` page structure and existing ARIA roles
-- Identified how structural tags are used (e.g., `aside`, `article`, `nav`, `section`)
-- Examined semantic layout tags (`header`, `main`, `footer`)
-- Created a **structure diagram** (based on lecture slide #7) and saved a screenshot in `/images`
-- Produced a **document outline** using an outline tool (based on lecture slide #10) and saved a screenshot in `/images`
+- Explored page structure.html structure and existing aria roles
+- Identified the use of structural tags (e.g. asymptote aside article nav section)
+- Examined semantic layout tags (header, main, footer)
+- Created structure diagram (based on lecture slide #7) and saved screen shot in /images
+- Produced document outline by using an outline tool (based on lecture slide #10) Create a screenshot in /images
 
 **Screenshots location:**
 
@@ -38,4 +38,4 @@ Completed tasks:
 
 Completed tasks:
 
-- Added ARIA roles where appropriate while structuring the pages to support accessibility and assistive technologies
+- Added ARIA roles where necessary and laid out the pages in such a way that they were user friendly and could be read by the assistive technology.
