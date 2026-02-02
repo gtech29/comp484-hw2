@@ -1,4 +1,3 @@
-
 # COMP 484 — HW2: Structuring Page Content
 
 * **Repo:** https://github.com/gtech29/comp484-hw2
@@ -10,12 +9,12 @@ For this HW, the goal is to plan and implement a **semantic structuring strategy
 
 ---
 
-## 1) Determine a structuring strategy (Applies to: `structure.html`) 
+## 1) Determine a structuring strategy (Applies to: `structure.html`)
 
 Work completed:
 
 - Explored page structure.html structure and existing aria roles
-- Identified the use of structural tags (e.g. asymptote aside article nav section)
+- Identified the use of structural tags (e.g. aside, article, nav, section)
 - Examined semantic layout tags (header, main, footer)
 - Created structure diagram (based on lecture slide #7) and saved screen shot in /images
 - Produced document outline by using an outline tool (based on lecture slide #10) Create a screenshot in /images
